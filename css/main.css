@@ -7,6 +7,9 @@ a {
     text-decoration: underline;
     color: #777;
 }
+a:hover {
+    color: #222;
+}
 h1 {
     font-size: 3em;
     font-family:'Lucida Console', 'Monaco', 'monospace';

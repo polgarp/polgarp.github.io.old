@@ -7,7 +7,7 @@ a {
     color: #999;
 }
 a:hover {
-    font-weight: bolder;
+    color: #CCC;
 }
 h1 {
     font-size: 3em;

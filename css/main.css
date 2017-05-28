@@ -1,13 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-weight: 200;
+
 }
 a {
     text-decoration: underline;
-    color: #999;
-}
-a:hover {
     color: #444;
 }
 h1 {
@@ -15,8 +12,12 @@ h1 {
     font-family:'Lucida Console', 'Monaco', 'monospace';
 }
 p {
-    font-size: 1.3em;
-    line-height: 1.2em;
+    font-size: 1.4em;
+    line-height: 1.4em;
     color: #333;
     font-family:'Lucida Console', 'Monaco', 'monospace';
+    font-weight: 200;
+}
+strong {
+  font weight: 700;
 }

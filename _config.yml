@@ -1,2 +1,4 @@
 name: polgarp
 markdown: kramdown
+
+theme: jekyll-theme-cayman

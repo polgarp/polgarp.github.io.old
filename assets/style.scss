@@ -464,6 +464,11 @@ body:after {
   font-family: "Open Sans", sans-serif;
 }
 
+.cd-container a:hover {
+  text-decoration: underline;
+}
+
+
 .cd-container img {
   max-width: 100%;
 }

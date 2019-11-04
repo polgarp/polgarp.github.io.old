@@ -162,11 +162,8 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 ul, ol {
@@ -332,6 +329,7 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    text-decoration: none;
 
     @include mobile {
       margin: 0 10px;

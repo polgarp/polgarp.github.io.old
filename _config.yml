@@ -9,7 +9,7 @@ name: polgarp
 author: Peter Balazs Polgar
 
 # Short bio or description (displayed in the header)
-description: 
+description: Thoughts after eleven
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -21,12 +21,12 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: polgarpeterbalazs@gmail.com
   facebook:
   flickr:
   github:
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/peterbalazspolgar
   pinterest:
   rss: rss
   twitter: polgarp
